@@ -4,6 +4,7 @@
         "version": "0.0.0",
         "title": "Node API",
         "description": "Node API",
+        "team": "foo",
         "license": {
             "name": "MIT",
             "url": "https://opensource.org/licenses/MIT"
