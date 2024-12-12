@@ -4,7 +4,7 @@
         "version": "0.0.0",
         "title": "User Profile API",
         "description": "Manage user profiles and preferences",
-        "team": "foo",
+        "team": "backend-team",
         "license": {
             "name": "MIT",
             "url": "https://opensource.org/licenses/MIT"
