@@ -2,8 +2,8 @@
     "swagger": "2.0",
     "info": {
         "version": "0.0.0",
-        "title": "Node API",
-        "description": "Node API",
+        "title": "User Profile API",
+        "description": "Manage user profiles and preferences",
         "team": "foo",
         "license": {
             "name": "MIT",
